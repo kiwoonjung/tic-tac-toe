@@ -9,4 +9,3 @@ export default function Log({ turns }) {
     </ol>
   );
 }
-33;
